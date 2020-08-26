@@ -1,0 +1,17 @@
+.search-box {
+   text-align: center;
+}
+.search {
+    -webkit-appearance: none;
+    outline: none;
+    padding: 8px;
+    border-radius: 10px 5px 0;
+    width: 500px;
+    border: 1px solid #ccc;
+    line-height: 30px;
+    margin: 20px 0;
+    -webkit-border-radius: 10px 5px 0;
+    -moz-border-radius: 10px 5px 0;
+    -ms-border-radius: 10px 5px 0;
+    -o-border-radius: 10px 5px 0;
+}
